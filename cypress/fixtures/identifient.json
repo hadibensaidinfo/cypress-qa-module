@@ -1,0 +1,6 @@
+{
+  "nomUtilisateur": "Admin",
+  "incorrecteNomUtilisateur": "Adminaaa",
+  "motDePasse": "admin123",
+  "incorrecteMotDePasse": "admin123a"
+}

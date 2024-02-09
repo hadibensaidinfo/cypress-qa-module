@@ -1,0 +1,11 @@
+{
+    "popupIdentification":".orangehrm-login-slot-wrapper",
+    "identifient":"[name='username']",
+    "motDePasse":"[name='password']",
+    "btnLogin":".oxd-button",
+    "messageErreur":".orangehrm-login-error",
+    "motDePasseOublier":".orangehrm-login-forgot",
+    "popupMotDePasseOublier":".orangehrm-forgot-password-wrapper",
+    "btnReinitialiser":".orangehrm-forgot-password-button--reset",
+    "alertDeSuccessReinitialiser":".orangehrm-forgot-password-title"
+}

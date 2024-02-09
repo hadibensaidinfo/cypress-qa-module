@@ -1,0 +1,6 @@
+{
+    "parseUrlLogin":"web/index.php/auth/login",
+    "parseUrlDashboard":"web/index.php/dashboard/index",
+    "parseUrlMotDePasseOublier":"web/index.php/auth/sendPasswordReset",
+    "textMotDePasseOublier":"Reset Password link sent successfully"
+}
